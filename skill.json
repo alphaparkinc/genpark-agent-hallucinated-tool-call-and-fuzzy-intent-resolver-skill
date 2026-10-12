@@ -1,0 +1,8 @@
+{
+  "name": "genpark-agent-hallucinated-tool-call-and-fuzzy-intent-resolver-skill",
+  "version": "1.0.0",
+  "description": "Resolves hallucinated agent tool calls, fuzzy parameter misspellings, and schema mismatches using Levenshtein distance and token similarity",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
