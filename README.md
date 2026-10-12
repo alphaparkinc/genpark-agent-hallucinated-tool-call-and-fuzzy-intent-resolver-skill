@@ -50,3 +50,10 @@ res = FuzzyToolResolver.resolve_tool_name("view_file_contents", valid_tools)
 print(res["tool_name"])   # "view_file"
 print(res["confidence"])  # 0.818
 ```
+
+---
+
+## GenPark Ecosystem
+
+- **Official Website**: [https://www.genpark.ai](https://www.genpark.ai)
+- **LinkedIn Page**: [https://www.linkedin.com/company/92955550](https://www.linkedin.com/company/92955550)
